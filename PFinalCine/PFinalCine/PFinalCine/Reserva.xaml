@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#2f2519"
+             x:Class="PFinalCine.Page1">
+    <!--
+        Paleta de colores
+    
+        #2f2519 : brown (bg)
+        #4a3f35 : beige (buttons)
+        #ff4301 : darkOrange
+        #fa7d09 : lightOrange (labels, text)
+    -->
+    <ScrollView>
+
+
+        <StackLayout
+            Padding="20">
+
+
+            <Image
+                Source="https://images.vexels.com/media/users/3/200470/isolated/lists/912b70585a5a9eed838dba9622e42404-carnival-popcorn-color.png" 
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+
+            <Label 
+               Text="Kino der Toten RESERVA" 
+              
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Title"
+               TextColor="#fa7d09"/>
+
+
+            <!-- Primera -->
+            <Label 
+               Text="Seleccione la Pelicula" 
+               
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <ListView
+                HorizontalScrollBarVisibility="Always"
+                VerticalScrollBarVisibility="Always">
+                <ListView.ItemsSource>
+                    <x:Array 
+                        Type="{x:Type x:String}">
+                        <x:String>La naranja Mecanica</x:String>
+                        <x:String>Ojos bien cerrados</x:String>
+                        <x:String>Airplane!</x:String>
+                        <x:String>Bastardos sin gloria</x:String>
+                        <x:String>Fear and Loathing Las Vegas</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+
+            </ListView>
+
+            <!-- Segundaa -->
+
+            <Label 
+               Text="Seleccione el horario:" 
+               
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <ListView
+                 HorizontalScrollBarVisibility="Always"
+                VerticalScrollBarVisibility="Always">
+                <ListView.ItemsSource>
+                    <x:Array 
+                        Type="{x:Type x:String}">
+                        <x:String>6:00 pm</x:String>
+                        <x:String>8:00 pm</x:String>
+                        <x:String>10:00pm</x:String>
+                    </x:Array>
+                </ListView.ItemsSource>
+            </ListView>
+
+            <!-- Tercer -->
+
+            <Label 
+               Text="Entradas:" 
+              
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <Label 
+               Text="0" 
+              
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Header"
+               TextColor="#fa7d09"/>
+
+            <!-- Cuarto -->
+            <Stepper 
+                Minimum="0"
+                Maximum="15"
+                Increment="1"
+                HorizontalOptions="Center" />
+
+
+        </StackLayout>
+
+    </ScrollView>
+</ContentPage>

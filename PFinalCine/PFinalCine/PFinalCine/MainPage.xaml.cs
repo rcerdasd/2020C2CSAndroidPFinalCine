@@ -16,6 +16,12 @@ namespace PFinalCine
         public MainPage()
         {
             InitializeComponent();
+            b_ingresar.Clicked += B_ingresar_Clicked;
+        }
+
+        private void B_ingresar_Clicked(object sender, EventArgs e)
+        {
+            ((NavigationPage)this.Parent).PushAsync(new Cartelera());
         }
     }
 }
