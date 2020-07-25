@@ -57,3 +57,6 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\obj\iPhone\Debug\PFinalCine.iOS.csproj.CopyComplete
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\obj\iPhone\Debug\PFinalCine.iOS.exe
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\obj\iPhone\Debug\PFinalCine.iOS.pdb
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\bin\iPhone\Debug\Mono.Android.dll
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\bin\iPhone\Debug\Mono.Android.pdb
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.iOS\bin\iPhone\Debug\Mono.Android.xml

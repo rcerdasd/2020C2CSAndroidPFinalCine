@@ -15,3 +15,7 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\ref\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.pdb
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.csproj.CopyComplete
