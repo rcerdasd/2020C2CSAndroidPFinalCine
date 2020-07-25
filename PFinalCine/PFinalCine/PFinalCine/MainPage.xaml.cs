@@ -21,7 +21,7 @@ namespace PFinalCine
 
         private void B_ingresar_Clicked(object sender, EventArgs e)
         {
-            ((NavigationPage)this.Parent).PushAsync(new Cartelera());
+            ((NavigationPage)this.Parent).PushAsync(new Menu());
         }
     }
 }
