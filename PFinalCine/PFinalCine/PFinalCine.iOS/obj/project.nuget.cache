@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kQZf7d66KMNRHe4kWLqi4Y3+yBzYLhzOTt4KLwCtXvoL13afslmG0Rx+cY7fzAiGfwbnPq2D0WlBJR4arNAaSA==",
+  "success": true,
+  "projectFilePath": "C:\\VS19 Projects\\2020C2 Android C#\\2020C2CSAndroidPFinalCine\\PFinalCine\\PFinalCine\\PFinalCine.iOS\\PFinalCine.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rolan\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+  ],
+  "logs": []
+}
