@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#2f2519"
+             x:Class="PFinalCine.Cartelera">
+    <!--
+        Paleta de colores
+    
+        #2f2519 : brown (bg)
+        #4a3f35 : beige (buttons)
+        #ff4301 : darkOrange
+        #fa7d09 : lightOrange (labels, text)
+    -->
+    <ScrollView>
+
+        <Grid
+            Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+                <RowDefinition Height="70" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="2*" />
+            </Grid.ColumnDefinitions>
+
+            <Image
+                Source="https://images.vexels.com/media/users/3/200470/isolated/lists/912b70585a5a9eed838dba9622e42404-carnival-popcorn-color.png" 
+                Grid.Row="0"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+
+            <Label 
+               Text="Kino der Toten CARTELERA" 
+               Grid.Row="0"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Title"
+               TextColor="#fa7d09"/>
+
+
+            <!-- Primera peli -->
+            <Image
+                Source="https://www.popartuk.com/g/l/l-204319.jpg" 
+                Grid.Row="1"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label 
+               Text="La Naranja Mecanica - Clasificacion: C - Horarios: 6pm/8pm/10pm" 
+               Grid.Row="1"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <!-- Segundaa peli -->
+            <Image
+                Source="https://ih0.redbubble.net/image.930627681.0526/flat,550x550,075,f.u1.jpg" 
+                Grid.Row="2"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label 
+               Text="Ojos bien cerrados - Clasificacion: C - Horarios: 6pm/8pm/10pm" 
+               Grid.Row="2"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <!-- Tercera peli -->
+            <Image
+                Source="https://images-na.ssl-images-amazon.com/images/I/51zWRLrTz3L._AC_.jpg" 
+                Grid.Row="3"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label 
+               Text="Airplane! - Clasificacion: B - Horarios: 6pm/8pm/10pm" 
+               Grid.Row="3"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <!-- Cuarta peli -->
+            <Image
+                Source="https://images-na.ssl-images-amazon.com/images/I/51Ro7n9T2fL._AC_.jpg" 
+                Grid.Row="4"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label 
+               Text="Bastardos sin Gloria - Clasificacion: C - Horarios: 6pm/8pm/10pm" 
+               Grid.Row="4"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <!-- Quinta peli -->
+            <Image
+                Source="https://images-na.ssl-images-amazon.com/images/I/71ZnZARdj%2BL._AC_SY741_.jpg" 
+                Grid.Row="5"
+                Grid.Column="0"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                />
+            <Label 
+               Text="Fear and Loathing Las Vegas - Clasificacion: C - Horarios: 6pm/8pm/10pm" 
+               Grid.Row="5"
+               Grid.Column="1"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               FontSize="Large"
+               TextColor="#fa7d09"/>
+
+            <!-- boton regresar al menu -->
+            <Button
+                x:Name="b_regresar"
+                Text="Regresar al menu"
+                HorizontalOptions="Fill" 
+                Grid.Row="6"
+                Grid.Column="0"
+                Grid.ColumnSpan="2"
+                FontSize="Large"
+                TextColor="#fa7d09"
+                Padding="20"
+                BackgroundColor="#4a3f35"/>
+
+        </Grid>
+
+
+    </ScrollView>
+</ContentPage>
