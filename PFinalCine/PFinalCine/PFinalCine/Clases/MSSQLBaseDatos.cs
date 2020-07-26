@@ -15,14 +15,15 @@ namespace PFinalCine.Clases
         //string connString = @"Data Source=MSI\MSSQLSERVERDEV19; Database=ProyectoC#; Id=rolando; Password=cucaracha11";
         public bool AgregarUsuario(string query)
         {
-            conn = new SqlConnection(connString);
-
+            
             using (conn)
             {
                 SqlCommand command = new SqlCommand(query, conn);
-                conn.Open();
+                conn = new SqlConnection(connString);
+                
                 if (command.ExecuteNonQuery() == 1)
                 {
+                    conn.Open();
                     return true;
                 }
                 conn.Close();
