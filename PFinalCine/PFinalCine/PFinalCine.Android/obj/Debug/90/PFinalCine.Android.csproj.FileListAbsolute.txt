@@ -474,3 +474,4 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.Android\obj\Debug\90\flata\1277B722B86478DD.flata
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.Android\obj\Debug\90\flata\02660A07EF640C3D.flata
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.Android\obj\Debug\90\flata\2AFC682CC58803B9.flata
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine.Android\obj\Debug\90\android\assets\System.Data.SqlClient.dll

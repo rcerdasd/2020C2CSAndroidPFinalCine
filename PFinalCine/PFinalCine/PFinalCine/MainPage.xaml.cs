@@ -17,6 +17,12 @@ namespace PFinalCine
         {
             InitializeComponent();
             b_ingresar.Clicked += B_ingresar_Clicked;
+            b_registrar.Clicked += B_registrar_Clicked;
+        }
+
+        private void B_registrar_Clicked(object sender, EventArgs e)
+        {
+            ((NavigationPage)this.Parent).PushAsync(new RegistrarCliente());
         }
 
         private void B_ingresar_Clicked(object sender, EventArgs e)

@@ -33,6 +33,8 @@
             Text="Iniciar Sesion"
             HorizontalOptions="Fill" 
             BackgroundColor="#4a3f35"/>
+        <Button x:Name="b_registrar" HorizontalOptions="Fill" 
+            BackgroundColor="#4a3f35"/>
     </StackLayout>
 
 </ContentPage>

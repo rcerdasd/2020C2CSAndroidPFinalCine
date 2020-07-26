@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             BackgroundColor="#2f2519"
+             x:Class="PFinalCine.RegistrarCliente">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="e_cedula" HorizontalOptions="Fill" Placeholder="Ingrese su numero de cedula" TextColor="#fa7d09"/>
+            <Button Text="Registrarse" x:Name="b_registrar" HorizontalOptions="Fill" TextColor="#fa7d09"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

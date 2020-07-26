@@ -2,7 +2,6 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\ref\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\PFinalCine.pdb
-C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.csprojAssemblyReference.cache
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\Cartelera.xaml.g.cs
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -10,8 +9,6 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\Reserva.xaml.g.cs
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.AssemblyInfoInputs.cache
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.AssemblyInfo.cs
-C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.csproj.CoreCompileInputs.cache
-C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\XamlC.stamp
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\ref\PFinalCine.dll
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.pdb
@@ -19,3 +16,6 @@ C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCi
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\Mono.Android.pdb
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\bin\Debug\netstandard2.0\Mono.Android.xml
 C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.csproj.CopyComplete
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\PFinalCine.csproj.CoreCompileInputs.cache
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\XamlC.stamp
+C:\VS19 Projects\2020C2 Android C#\2020C2CSAndroidPFinalCine\PFinalCine\PFinalCine\PFinalCine\obj\Debug\netstandard2.0\RegistrarCliente.xaml.g.cs
