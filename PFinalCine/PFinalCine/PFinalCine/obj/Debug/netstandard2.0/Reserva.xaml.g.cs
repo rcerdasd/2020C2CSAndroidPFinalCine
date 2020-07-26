@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PFinalCine.Reserva.xaml", "Reserva.xaml", typeof(global::PFinalCine.Page1))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("PFinalCine.Reserva.xaml", "Reserva.xaml", typeof(global::PFinalCine.Reserva))]
 
 namespace PFinalCine {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Reserva.xaml")]
-    public partial class Page1 : global::Xamarin.Forms.ContentPage {
+    public partial class Reserva : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Page1));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(Reserva));
         }
     }
 }

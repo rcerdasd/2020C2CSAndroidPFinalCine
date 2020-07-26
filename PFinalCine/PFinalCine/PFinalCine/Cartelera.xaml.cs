@@ -15,6 +15,12 @@ namespace PFinalCine
         public Cartelera()
         {
             InitializeComponent();
+            b_regresar.Clicked += B_regresar_Clicked;
+        }
+
+        private void B_regresar_Clicked(object sender, EventArgs e)
+        {
+            Application.Current.MainPage.Navigation.PopAsync();
         }
     }
 }

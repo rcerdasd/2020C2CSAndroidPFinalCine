@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace PFinalCine
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Page1 : ContentPage
+    public partial class Reserva : ContentPage
     {
-        public Page1()
+        public Reserva()
         {
             InitializeComponent();
         }

@@ -5,7 +5,7 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              BackgroundColor="#2f2519"
-             x:Class="PFinalCine.Page1">
+             x:Class="PFinalCine.Reserva">
     <!--
         Paleta de colores
     
